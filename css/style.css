@@ -2,7 +2,7 @@
 
 .bannerBgImage {
     height: 100vh;
-    background: url("./image/iban.jpg");
+    background-image: url("../image/iban.jpg");
     background-size: cover;
     position: relative;
 }
